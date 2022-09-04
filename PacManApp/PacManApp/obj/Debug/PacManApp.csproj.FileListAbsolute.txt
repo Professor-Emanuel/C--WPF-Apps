@@ -1,0 +1,15 @@
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\bin\Debug\PacManApp.exe.config
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\bin\Debug\PacManApp.exe
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\bin\Debug\PacManApp.pdb
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.csproj.AssemblyReference.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\MainWindow.g.cs
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\App.g.cs
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp_MarkupCompile.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp_MarkupCompile.lref
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\MainWindow.baml
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.g.resources
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.Properties.Resources.resources
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.csproj.GenerateResource.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.exe
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\PacManApp\PacManApp\obj\Debug\PacManApp.pdb
